@@ -10,3 +10,5 @@ while True:
     #TODO - figure out why this is erroring
     
     #TODO -- Figure out what we're trying to accomplish here
+    
+    #Todo -- Why are we doing this?
