@@ -11,4 +11,4 @@ while True:
     
     #TODO -- Figure out what we're trying to accomplish here
     
-    #Todo -- Why are we doing this?
+    #TODO -- Try to understand why we're doing this
