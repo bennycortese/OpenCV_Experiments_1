@@ -10,3 +10,4 @@ class Camera:
 
     def return_cap(self):
         return self.cap
+#FreecodeCamp, Mishra's Workshop
